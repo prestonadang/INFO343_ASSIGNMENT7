@@ -1,0 +1,41 @@
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+.featuredImg {
+	margin-bottom: 15px;
+}
+
+.page-body {
+	margin-bottom: 100px;
+}
+
+body {
+	background-color: #2E0854;
+}
+
+.col-md-6 p{
+	color: white;
+	margin-bottom: 50px;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.col-md-6 .btn {
+	 margin-bottom: 50px;
+}
+
+h3, h4 {
+	color: purple;
+	font-style: bold;
+}
+
+.pagination {
+	margin-bottom: 100px;
+}
